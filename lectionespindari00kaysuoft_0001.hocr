@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lectionespindari00kaysuoft_0001.png"; bbox 0 0 1924 3115; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 18 2856 101 3038">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 18 2856 102 3038">
+     <span class='ocr_line' id='line_1_1' title="bbox 18 2856 60 2924; baseline 0.012 -3"><span class='ocrx_word' id='word_1_1' title='bbox 18 2856 60 2924; x_wconf 93' lang='lat'>3.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 29 2981 101 3038; baseline 0.014 -1"><span class='ocrx_word' id='word_1_2' title='bbox 29 2981 72 3037; x_wconf 49' lang='grc' dir='ltr'>ἐξα</span> <span class='ocrx_word' id='word_1_3' title='bbox 88 3004 101 3038; x_wconf 74' lang='lat'>³:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1924 3115">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1924 3115">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1924 3115; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1924 3115; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
